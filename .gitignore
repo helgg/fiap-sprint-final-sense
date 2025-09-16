@@ -1,3 +1,14 @@
+# Data Diretory
+**parquet/
+**data/
+**output/
+**/assets
+**/sprint3
+
+# ppt
+*.pptx
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
