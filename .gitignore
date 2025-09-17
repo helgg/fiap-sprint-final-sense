@@ -1,13 +1,11 @@
-# Data Diretory
-**parquet/
-**data/
+# Data Diretory - parquets
 **output/
-**/assets
-**/sprint3
 
-# ppt
+# ppt do projeto
 *.pptx
 
+# presentation slides
+**presentation/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
