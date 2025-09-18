@@ -4,7 +4,9 @@
 
 **Resumo do projeto**
 
-Pipeline simples (nível acadêmico) para **segmentação de clientes** via RFM +  **KMeans** , **previsão M+1** (modelos básicos como Regressão Linear e baseline ingênuo) e **testes de hipótese** (ANOVA + Tukey) para validar diferenças entre clusters. Exporta **CSVs** e **gráficos** prontos para BI. [GitHub](https://github.com/helgg/fiap-sprint-final-sense/tree/master)
+Pipeline simples (nível acadêmico) para **segmentação de clientes** via RFM +  **KMeans** , **previsão M+1** (modelos básicos como Regressão Linear e baseline ingênuo) e **testes de hipótese** (ANOVA + Tukey) para validar diferenças entre clusters. Exporta **CSVs** e **gráficos** prontos para BI. 
+
+[Link GitHub](https://github.com/helgg/fiap-sprint-final-sense/tree/master)
 
 ## Bibliotecas principais
 
