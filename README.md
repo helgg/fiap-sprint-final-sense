@@ -18,6 +18,24 @@ Pipeline simples (nível acadêmico) para **segmentação de clientes** via RFM 
 
 Crie um ambiente virtual e instale as dependências do projeto:
 
+```
+# Clonar o repo
+git clone https://github.com/helgg/fiap-sprint-final-sense.git
+cd fiap-sprint-final-sense
+
+# (Linux/Mac)
+python -m venv .venv
+source .venv/bin/activate
+
+# (Windows PowerShell)
+# python -m venv .venv
+# .venv\Scripts\Activate.ps1
+
+# Atualizar pip e instalar requirements
+python -m pip install -U pip
+pip install -r requirements.txt
+```
+
 ## Objetivos
 
 - **Segmentação** de clientes via **RFM** (Recência, Frequência, Monetário) + **KMeans**.
